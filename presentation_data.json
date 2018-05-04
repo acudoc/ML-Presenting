@@ -1,0 +1,21 @@
+{
+    "name": "Cassidy Dobratz",
+    "netlify_subdomain": "stoic-mccarthy-ac09cf.netlify.com",
+    "optional_dns": "https://competent-shockley-f61853.netlify.com",
+    "blog_post_1": {
+        "title": "<TITLE1>",
+        "url": "https://medium.com/@ML_Engineer",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_2": {
+        "title": "<TITLE2>",
+        "url": "http://cassidydobratz.getforge.io/",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "blog_post_3": {
+        "title": "<TITLE3>",
+        "url": "<MEDIUM OR WEB URL>",
+        "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/cassidydobratz/",
+    "latex": "https://www.overleaf.com/15841220byymgrfjdwfd"
